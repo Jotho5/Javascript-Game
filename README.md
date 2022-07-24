@@ -1,4 +1,4 @@
-# Radagon Boss Game ⚔️
+# Radagon Boss Fight ⚔️
 This application prompts the user to play a mini game where they go face to face with the final boss Radagon!
 
 # Built With 📚
